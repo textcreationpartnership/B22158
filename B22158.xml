@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the speedy raising and leavying of monyes for the advance and mainteinance of the forces now sent forth for this present expedition from the cities of London, Westminster, and liberties thereof, borough of Southwarke, hamblets of the tower and the parishes mentioned in the weekly bills of mortality.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22158</idno><idno type="EEBO-CITATION">11891700</idno>
+  <idno type="VID">196467</idno>
+  <idno type="EEBO-PROQUEST">2240903529</idno>
+  
+            <idno type="STC">Wing E2053</idno>
+            <idno type="OCLC">11891700</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 230:E12, no 22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the speedy raising and leavying of monyes for the advance and mainteinance of the forces now sent forth for this present expedition from the cities of London, Westminster, and liberties thereof, borough of Southwarke, hamblets of the tower and the parishes mentioned in the weekly bills of mortality.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 14, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Finis" on p. 8 is followed by a catchword "Dic" ; the t.p. calls for no additional material.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196467:1"/>
+            <p> AN ORDINANCE OF THE LORDS and COMMONS Assembled in PARLIAMENT, For the speedy raising and leavying of monyes, for the advance and mainteinance of the forces now sent forth for this present ex<g ref="char:EOLhyphen"/>pedition from the Cities of <hi>London, Westminster,</hi> and liberties thereof, Borough of <hi>Southwarke,</hi> Hamb<g ref="char:EOLhyphen"/>lets of the <hi>Tower,</hi> and the parishes mentioned in the weekly Bills of mortality.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi, 12 October, 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords Assembled in Parliament, that this Ordinance be forthwith Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Joh. Browne Cler. Parliamentorum</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed for <hi>Iohn Wright</hi> in the Old-Bailey.</p>
+            <p>
+               <hi>October</hi> 14. 1644.</p>
+            <pb facs="tcp:196467:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:196467:2"/>
+            <head>AN ORDINANCE Of the Lords and Commons in Parliament assembled, for the raising and levying of monies for the advance and maintenance of the Forces now to be sent forth for the present Expedition, from the Citie of <hi>London</hi> and Liberties thereof, and from the Parishes mentioned in the weekly Bills of Mortality.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbat.</hi> 12. <hi>Octob.</hi> 1644.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons taking into their conside<g ref="char:EOLhyphen"/>ration the necessity of sending forth some For<g ref="char:EOLhyphen"/>ces from the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and Liberties there<g ref="char:EOLhyphen"/>of, and other places men<g ref="char:EOLhyphen"/>tioned in the weekly Bills of Mortality: And that for the better effecting thereof, the speedy raising of a competent summe of Mony within the Citie and places aforesaid,
+<pb facs="tcp:196467:3"/> is requisite, Have therefore ordained, and be it ordained by the said Lords and Commons for the intents and purposes aforesaid, and to such fur<g ref="char:EOLhyphen"/>ther purposes as are hereafter expresed, that there be forthwith raised the summe of two and twen<g ref="char:EOLhyphen"/>ty thousand pounds, whereof the summe of se<g ref="char:EOLhyphen"/>venteen thousand, two hundred and fifty pounds within the said Citie and Liberties thereof, and upon such persons and goods wheresoever they are to be found, as are herein after expressed, and foure thousand, seven hundred and fifty pounds within the Hamblets of the Tower, Citie of <hi>Westminster,</hi> Borough of <hi>Southwark,</hi> and other places mentioned in the weekly Bills of Morta<g ref="char:EOLhyphen"/>lity, and upon such persons and goods whereso<g ref="char:EOLhyphen"/>ever they are to be found, as are herein also after expressed. And for the more speedy and orderly raising thereof, It is ordained by the said Lords and Commons, that the Committee appointed by severall Acts of Common Councell for the gathe<g ref="char:EOLhyphen"/>ring in of the Arrears, and the foure Aldermen appointed by Act of Common Councell, dated the 27. of September last, or any nine of them, wher<g ref="char:EOLhyphen"/>of three to be Aldermen, shall be a Committee to assesse the said summe of 17250. l. upon any such person or persons, being of ability, as either now inhabit within the said Citie of <hi>London</hi> and Li<g ref="char:EOLhyphen"/>berties, or that at any time since the beginning of this Parliament (being free men of <hi>London)</hi> did inhabit, or had since the time aforesaid, whether free, or not free of the Citie of <hi>London,</hi> or now have any trade, or stock going within the same:
+<pb facs="tcp:196467:3"/> And that the Sub-Committees of the Militia heretofore appointed within the Hamblets of the Tower, Citie of <hi>Westminster,</hi> Borough of <hi>South<g ref="char:EOLhyphen"/>wark,</hi> and places mentioned in the weekly Bills of Mortalitie, or any 7. of them respectively, shalbe a Committee to assesse the said summe of 4750. l. within their severall limits and precincts, upon any such person, or persons, being of ability, as either now inhabit within the severall places a<g ref="char:EOLhyphen"/>foresaid, or that at any time since the beginning of this Parliament, did inhabit, or had any Trade, or stock going within the limits and places afore<g ref="char:EOLhyphen"/>said. And it is ordained by the said Lords and Commons, that all and every such person and persons (being assessed by vertue hereof) and neglecting or refusing to pay the said severall sums so assessed within ten dayes after notice given, or left in writing at his usuall habitation, or place of abode, or at the dwelling house, or place of abode of any Partner, or Factor of any persons assessed, unto the severall Committees, or the Treasurer, or Treasurers by them appointed to receive the same, shall by vertue of a Warrant fram the Committee of Lords and Commons for advance of Monies, and other necessaries for the Army, usually sitting at Haberdashers Hall (who are hereby authorized to make and give such war<g ref="char:EOLhyphen"/>rants unto such person or persons, as shall be by the Committees, nominated for that purpose) be compelled to pay the said summes so assessed, by distresse of the goods and chattels of such person and persons so neglecting, or refusing to pay the
+<pb facs="tcp:196467:4"/> same, which said goods so distrained shall be sold by the said severall and respective Committees, appointed by this Ordinance for the service a<g ref="char:EOLhyphen"/>foresaid, And if any person, or persons shall neg<g ref="char:EOLhyphen"/>lect, or refuse to make payment of the sum, or sums so assessed, and demanded as aforesaid, untill a distresse shall be taken for the same, That then e<g ref="char:EOLhyphen"/>very person and persons so neglecting, or refusing as aforesaid, shall pay such reasonable charge for every such distresse, removall, and sale of his, or their goods, as the said severall Committees shall respectively allow, or appoint, to be imployed for the better execution of this Ordinance, and if no sufficient distresse can be found, That then every such person and persons, shall by vertue of such Warrant from the said Commmittee of Lords and Commons to be made as aforesaid, be com<g ref="char:EOLhyphen"/>mitted to safe custody, there to remain untill such person or persons shall satisfie the said severall summes assessed upon them by vertue of this Or<g ref="char:EOLhyphen"/>dinance. And the said severall Committees ap<g ref="char:EOLhyphen"/>pointed by vertue of this Ordinance for the ser<g ref="char:EOLhyphen"/>vice aforesaid, are hereby further authorized, and enabled, to call to their assistance (for the better execution and performance of this Ordinance) any person or persons, as they shall think fit.</p>
+            <p>And it is further Ordained by the said Lords and Commons, That the severall sums of money Assessed as afor said, shall be brought unto the said severall Committees▪ or to such Treasurer or Treasurers, as shall be by them appoynted to receive the same; Which money so paid, to the
+<pb facs="tcp:196467:4"/> said severall Committees, Treasurer, or Trea<g ref="char:EOLhyphen"/>surers as aforesaid, shall be delivered to such Treasurer or Treasurers, as the Court of Com<g ref="char:EOLhyphen"/>mon-Councell shall appoynt, and by him, or them issued and paid out by vertue of Warrants from the Committee of the Militia of the City of <hi>London,</hi> for the satisfaction and maintenance of the said Forces to be sent forth in the present ex<g ref="char:EOLhyphen"/>pedition as aforesaid, according to their musters and the late establishment of the Lord Generalls Army, and the surplusage shall be paid and dis<g ref="char:EOLhyphen"/>posed, as both H<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uses of Parliament shall direct, and not otherwise, excepting onely what shall be issued out for such necessarie charges for the col<g ref="char:EOLhyphen"/>lecting and gathering in of the said moneys, as the said severall Committees shall thinke fit, not exceeding six pence in the pound: And the said Lords and Commons doe Ordain, for the encou<g ref="char:EOLhyphen"/>ragement and security of such persons, as shall advance any sum of money by vertue thereof, that they shalbe repaid with interest out of the receipt of the Excise, and that no Ordinance, nor Assign<g ref="char:EOLhyphen"/>ment, which is not already passed upon the receipt of the Excise, shall preceed this Ordinance, and doe therefore hereby authorize the said Com<g ref="char:EOLhyphen"/>missioners of the Excise, and new Impost (for the time being to pay at the end of six monethes the interest of so much moneys as shalbe advanced by vertue hereof after the rate of eight <hi>li. per cent. per annum,</hi> and the principall money, &amp; the rest of the interest after the rate aforesaid, shalbe paid in due course, into the hands of such Treasurer
+<pb facs="tcp:196467:5"/> or Treasurers as shalbe appoynted by Common-Councell, whose receipt shall be their sufficient discharge, and by the said Treasurer or Treasu<g ref="char:EOLhyphen"/>rers issued out to such persons as did advance the same. And it is Ordained, That all Maiors, Sheriffs, Captains, Lieutenants, Bailiffs, Con<g ref="char:EOLhyphen"/>stables, and all other Officers and Souldiers, shall be ayding and assisting to the said Commit<g ref="char:EOLhyphen"/>tees, &amp; all such Officers as shall be imployed by them for the better execution and performance of the said service.</p>
+            <p>And the said Lords and Commons doe further Ordain, That the said Committee for the Mili<g ref="char:EOLhyphen"/>tia, shall from time to time give accompt to both, or either Houses of Parliament, or to whom they shall direct, how they have caused the said mo<g ref="char:EOLhyphen"/>neyes to be issued out.</p>
+            <p>And it is lastly Ordained, That whatsoever a<g ref="char:EOLhyphen"/>ny person or persons shall do in pursuance of this Ordinance, he and they shall be saved harmelesse for the same by authority of both Houses of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>Provided, that no person or persons shall be Assessed by vertue of this Ordinance, that shall take his corporall oath before the said Commit<g ref="char:EOLhyphen"/>tee of Lords and Commons at Haberdashers-Hall, or such as they shall appoynt who are here<g ref="char:EOLhyphen"/>by authorized to take and administer the same; that he is not worth in personall and reall Estate &amp; good debts, the sum of 1000 marks. Provided alwayes, that no Member nor assistant of either House of Parliament, shall be lyable to this Assessement.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
